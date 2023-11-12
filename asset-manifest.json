@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.04eec55f.css",
-    "main.js": "/my-portfolio/static/js/main.fab1f2f1.js",
+    "main.css": "/my-portfolio/static/css/main.b783f09e.css",
+    "main.js": "/my-portfolio/static/js/main.45a16bd2.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/sidcupgolf.png": "/my-portfolio/static/media/sidcupgolf.fb81532027929bf53a5d.png",
     "static/media/newsify.png": "/my-portfolio/static/media/newsify.99e72aa8186084b32dc0.png",
@@ -13,17 +13,18 @@
     "static/media/HeroImage.jpg": "/my-portfolio/static/media/HeroImage.f1900d6a79ccf5b045a0.jpg",
     "static/media/react.png": "/my-portfolio/static/media/react.3e9820dc44ddde88975e.png",
     "static/media/mysql.png": "/my-portfolio/static/media/mysql.bc111711e5f8aaad3282.png",
+    "static/media/tailwindcss.png": "/my-portfolio/static/media/tailwindcss.c08c21286127684bef2e.png",
     "static/media/github.png": "/my-portfolio/static/media/github.7cde1a231951f9bb6fe9.png",
     "static/media/git.png": "/my-portfolio/static/media/git.13ab150a918ba929c6b4.png",
     "static/media/html.png": "/my-portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.3dfb665e058d08c99f28.png",
     "index.html": "/my-portfolio/index.html",
-    "main.04eec55f.css.map": "/my-portfolio/static/css/main.04eec55f.css.map",
-    "main.fab1f2f1.js.map": "/my-portfolio/static/js/main.fab1f2f1.js.map",
+    "main.b783f09e.css.map": "/my-portfolio/static/css/main.b783f09e.css.map",
+    "main.45a16bd2.js.map": "/my-portfolio/static/js/main.45a16bd2.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04eec55f.css",
-    "static/js/main.fab1f2f1.js"
+    "static/css/main.b783f09e.css",
+    "static/js/main.45a16bd2.js"
   ]
 }
